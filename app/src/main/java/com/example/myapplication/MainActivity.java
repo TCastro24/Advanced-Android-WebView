@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package https://github.com/TCastro24/DigiToolX;
 
 import android.Manifest;
 import android.app.Activity;
